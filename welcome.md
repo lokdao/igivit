@@ -6,8 +6,11 @@
 
 ### What we've done so far
 To show the Cardano community our commitment and dedication to this project, we wish to provide an update on how things have evolved since we wrote our Fund5 proposal.
+
 Since late April, we have been working with a contractor to bring our vision to life. Here you can find a small sample of the dozens of pages that were created as part of the high-fidelity prototype. This really helped answer a lot of questions about the various functionalities of the ecosystem.
+
 We are now waiting for the voting results of Fund5 to know if we have the resources to move on to the second phase of the project: to convert the Figma prototype into HTML. Then phase 3 will see the team start attaching the back-end to the Cardano blockchain. 
+
 Thanks for reading! 
 
 ### Wireframe
