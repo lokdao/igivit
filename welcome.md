@@ -8,7 +8,7 @@
 ### What we've done so far
 To show the Cardano community our commitment and dedication to this project, we wish to provide an update on how things have evolved since we wrote our Fund5 proposal.
 
-Since late April, we have been working with a contractor to bring our vision to life. Here you can find a small sample of the dozens of pages that were created as part of the high-fidelity prototype. This really helped answer a lot of questions about the various functionalities of the ecosystem.
+Since late April, we have been working with a contractor to bring our vision to life. Here you can find a small sample of the dozens of pages that were created as part of the high-fidelity prototype. This really helped answer a lot of questions about the various functionalities of the ecosystem. Please note that the UI Design phase hasn't started yet; this is just the wireframing. 
 
 We are now waiting for the voting results of Fund5 to know if we have the resources to move on to the second phase of the project: to convert the Figma prototype into HTML. Then phase 3 will see the team start attaching the back-end to the Cardano blockchain. 
 
@@ -41,3 +41,8 @@ Thanks for reading!
 
 #### Supplier Task
 ![Supplier Task 01](https://github.com/lokdao/igivit/blob/main/resources/images/wireframe/Supplier%20-%20Task%2001.png)
+
+## Here's a bird's eye view of the entire project so far:
+![IGIVIT_FigmaProjectBirdsEye_1of2](https://user-images.githubusercontent.com/61361293/128023061-df538cee-2b43-4436-896d-f932a0bb2323.jpg)
+
+![IGIVIT_FigmaProjectBirdsEye_2of2](https://user-images.githubusercontent.com/61361293/128023087-c6edcc0f-baa3-421d-8516-0f98be3db059.jpg)
