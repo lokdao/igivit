@@ -2,9 +2,9 @@
 
 ### At a glance
 - Our Website: [igivit.org](https://igivit.org)
-- Our Proposal on Catalyst: [Fund 5 proposal](https://cardano.ideascale.com/a/dtd/iGIVit-The-Future-of-Giving/351711-48088)
+- Our First Proposal on Catalyst: [Fund 5 proposal](https://cardano.ideascale.com/a/dtd/iGIVit-The-Future-of-Giving/351711-48088)
 - The Reviews from the community on our Proposal (4.5 stars!) https://cardanocataly.st/voter-tool/#/fund/f5/challenge/25941/proposals/351711
-
+- Our Current Propsal on Catalyst: [Fund 6 proposal](https://cardano.ideascale.com/a/dtd/IGIVIT-Phase2-Beyond-the-Prototype/367183-48088)
 ### What we've done so far
 To show the Cardano community our commitment and dedication to this project, we wish to provide an update on how things have evolved since we wrote our Fund5 proposal.
 
