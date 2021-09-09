@@ -1,4 +1,4 @@
-# iGIVit - The Future of Giving.
+# IGIVIT - The Future of Giving.
 
 ### At a glance
 - Our Website: [igivit.org](https://igivit.org)
